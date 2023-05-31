@@ -1,0 +1,1 @@
+Basic Serverless setup with AWS Lambda and API Gateway
